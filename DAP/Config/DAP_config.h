@@ -29,6 +29,7 @@
 #define __DAP_CONFIG_H__
 
 
+
 //**************************************************************************************************
 /**
 \defgroup DAP_Config_Debug_gr CMSIS-DAP Debug Unit Information
